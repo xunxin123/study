@@ -1,2 +1,2 @@
 # study
-This is a warehouse for taming learning, a toy for beginners, don't laugh at masters and experts
+This is just a toy for beginners, masters and experts don't laugh at me, let's make progress together
