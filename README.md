@@ -39,5 +39,3 @@ sudo apt-get install python3-pip python3-dev -y
 
 # 安装项目依赖
 pip3 install -r requirements.txt
-
-The above is just a beginner's toy, masters and experts don't laugh at me, let's make progress together
