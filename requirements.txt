@@ -1,0 +1,4 @@
+RPi.GPIO==0.7.0
+adafruit-circuitpython-mpu6050==1.12.3
+board==1.0.4
+busio==1.10.0
